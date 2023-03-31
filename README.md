@@ -1,2 +1,1 @@
-# PrepCoure-Henry
-Este es un repositorio de prueba del modulo 2 del prepcourse de Henry
+Este es un proyecto que ayuda a ensenar modificaciones en archivos de repositorios de github a mi computador
